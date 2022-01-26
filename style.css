@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Roboto+Slab:wght@300;400&display=swap');
+
+
+body {
+    background: rgb(96, 207, 96);
+    font-family: 'Balsamiq Sans', cursive;
+    color: white;
+}
+
+
+.lang a {
+    color: white;
+    text-decoration: none;
+    float: right;
+    background: rgb(0, 81, 255);
+    border-radius: 10px;
+    width: 4vw;
+    height: 4vh;
+    text-align: center;
+    font-size: 3vh;
+    
+}
+
+.lang a:hover {
+   background-color: rgb(5, 49, 145);
+   transition: 400ms;
+   cursor: pointer;
+}
+
+
+    
+
+
+p {
+    font-size: 40px;
+}
+
+.resetBTN {
+    margin-top: 4vh;
+    background: rgb(0, 81, 255);
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    width: 20vh;
+    height: 5vh;
+    font-size: 20px;
+}
